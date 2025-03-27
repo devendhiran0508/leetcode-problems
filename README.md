@@ -46,4 +46,20 @@
 | ------- |
 | [0608-tree-node](https://github.com/devendhiran0508/leetcode-problems/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/devendhiran0508/leetcode-problems/tree/master/0610-triangle-judgement) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
