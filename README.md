@@ -62,21 +62,25 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devendhiran0508/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devendhiran0508/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devendhiran0508/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
 ## Two Pointers
 |  |
