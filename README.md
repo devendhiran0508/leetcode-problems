@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devendhiran0508/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/devendhiran0508/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 ## Database
 |  |
 | ------- |
@@ -58,10 +59,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/devendhiran0508/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/devendhiran0508/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
@@ -70,6 +73,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/devendhiran0508/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
 ## Two Pointers
 |  |
