@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/devendhiran0508/leetcode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/devendhiran0508/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0055-jump-game) |
+| [2262-solving-questions-with-brainpower](https://github.com/devendhiran0508/leetcode-problems/tree/master/2262-solving-questions-with-brainpower) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [2262-solving-questions-with-brainpower](https://github.com/devendhiran0508/leetcode-problems/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
 |  |
 | ------- |
