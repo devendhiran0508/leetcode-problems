@@ -55,6 +55,7 @@
 ## Database
 |  |
 | ------- |
+| [0596-classes-more-than-5-students](https://github.com/devendhiran0508/leetcode-problems/tree/master/0596-classes-more-than-5-students) |
 | [0608-tree-node](https://github.com/devendhiran0508/leetcode-problems/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/devendhiran0508/leetcode-problems/tree/master/0610-triangle-judgement) |
 | [1415-students-and-examinations](https://github.com/devendhiran0508/leetcode-problems/tree/master/1415-students-and-examinations) |
