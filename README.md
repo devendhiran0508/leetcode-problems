@@ -69,6 +69,7 @@
 | [0184-department-highest-salary](https://github.com/devendhiran0508/leetcode-problems/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/devendhiran0508/leetcode-problems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/devendhiran0508/leetcode-problems/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/devendhiran0508/leetcode-problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-more-than-5-students](https://github.com/devendhiran0508/leetcode-problems/tree/master/0596-classes-more-than-5-students) |
 | [0608-tree-node](https://github.com/devendhiran0508/leetcode-problems/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/devendhiran0508/leetcode-problems/tree/master/0610-triangle-judgement) |
