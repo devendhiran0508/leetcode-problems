@@ -72,6 +72,7 @@
 | [0596-classes-more-than-5-students](https://github.com/devendhiran0508/leetcode-problems/tree/master/0596-classes-more-than-5-students) |
 | [0608-tree-node](https://github.com/devendhiran0508/leetcode-problems/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/devendhiran0508/leetcode-problems/tree/master/0610-triangle-judgement) |
+| [1179-game-play-analysis-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/1179-game-play-analysis-i) |
 | [1415-students-and-examinations](https://github.com/devendhiran0508/leetcode-problems/tree/master/1415-students-and-examinations) |
 | [1908-recyclable-and-low-fat-products](https://github.com/devendhiran0508/leetcode-problems/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/devendhiran0508/leetcode-problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
