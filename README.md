@@ -77,6 +77,7 @@
 | [0610-triangle-judgement](https://github.com/devendhiran0508/leetcode-problems/tree/master/0610-triangle-judgement) |
 | [1179-game-play-analysis-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/1179-game-play-analysis-i) |
 | [1415-students-and-examinations](https://github.com/devendhiran0508/leetcode-problems/tree/master/1415-students-and-examinations) |
+| [1811-fix-names-in-a-table](https://github.com/devendhiran0508/leetcode-problems/tree/master/1811-fix-names-in-a-table) |
 | [1908-recyclable-and-low-fat-products](https://github.com/devendhiran0508/leetcode-problems/tree/master/1908-recyclable-and-low-fat-products) |
 | [2110-employees-with-missing-information](https://github.com/devendhiran0508/leetcode-problems/tree/master/2110-employees-with-missing-information) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/devendhiran0508/leetcode-problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
