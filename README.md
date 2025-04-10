@@ -43,6 +43,7 @@
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devendhiran0508/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0020-valid-parentheses](https://github.com/devendhiran0508/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/devendhiran0508/leetcode-problems/tree/master/0058-length-of-last-word) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Trie
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/devendhiran0508/leetcode-problems/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Greedy
 |  |
 | ------- |
