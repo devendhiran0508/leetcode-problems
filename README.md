@@ -43,6 +43,7 @@
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devendhiran0508/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devendhiran0508/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2998-count-symmetric-integers) |
 ## Sorting
 |  |
 | ------- |
