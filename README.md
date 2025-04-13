@@ -44,6 +44,7 @@
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devendhiran0508/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/devendhiran0508/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [2050-count-good-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
