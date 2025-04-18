@@ -66,6 +66,7 @@
 | [0014-longest-common-prefix](https://github.com/devendhiran0508/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/devendhiran0508/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/devendhiran0508/leetcode-problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/devendhiran0508/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Trie
