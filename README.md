@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/devendhiran0508/leetcode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/devendhiran0508/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/devendhiran0508/leetcode-problems/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/devendhiran0508/leetcode-problems/tree/master/0797-rabbits-in-forest) |
@@ -180,6 +181,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/devendhiran0508/leetcode-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/devendhiran0508/leetcode-problems/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String Matching
@@ -252,6 +254,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/devendhiran0508/leetcode-problems/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/devendhiran0508/leetcode-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2215-finding-3-digit-even-numbers) |
