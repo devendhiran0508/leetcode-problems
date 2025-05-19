@@ -38,6 +38,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/devendhiran0508/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/devendhiran0508/leetcode-problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/devendhiran0508/leetcode-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -86,6 +87,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -260,6 +262,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/devendhiran0508/leetcode-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3321-type-of-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
