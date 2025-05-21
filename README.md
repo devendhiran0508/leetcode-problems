@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/devendhiran0508/leetcode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/devendhiran0508/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/devendhiran0508/leetcode-problems/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/devendhiran0508/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0797-rabbits-in-forest](https://github.com/devendhiran0508/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devendhiran0508/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -336,6 +338,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
