@@ -89,6 +89,7 @@
 | [0012-integer-to-roman](https://github.com/devendhiran0508/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devendhiran0508/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/devendhiran0508/leetcode-problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/devendhiran0508/leetcode-problems/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/devendhiran0508/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/devendhiran0508/leetcode-problems/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2050-count-good-numbers) |
 ## String
 |  |
