@@ -125,6 +125,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/devendhiran0508/leetcode-problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/devendhiran0508/leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/devendhiran0508/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0868-push-dominoes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0868-push-dominoes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/devendhiran0508/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -213,6 +214,7 @@
 | [0027-remove-element](https://github.com/devendhiran0508/leetcode-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/devendhiran0508/leetcode-problems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/devendhiran0508/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0868-push-dominoes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String Matching
