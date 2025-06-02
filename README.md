@@ -11,6 +11,7 @@
 | [0055-jump-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/devendhiran0508/leetcode-problems/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/devendhiran0508/leetcode-problems/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/devendhiran0508/leetcode-problems/tree/master/0797-rabbits-in-forest) |
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/devendhiran0508/leetcode-problems/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/devendhiran0508/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/devendhiran0508/leetcode-problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/devendhiran0508/leetcode-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
