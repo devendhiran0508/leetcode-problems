@@ -92,6 +92,7 @@
 | [0013-roman-to-integer](https://github.com/devendhiran0508/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/devendhiran0508/leetcode-problems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/devendhiran0508/leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devendhiran0508/leetcode-problems/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
@@ -127,6 +128,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/devendhiran0508/leetcode-problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/devendhiran0508/leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/devendhiran0508/leetcode-problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/devendhiran0508/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0868-push-dominoes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/devendhiran0508/leetcode-problems/tree/master/0067-add-binary) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devendhiran0508/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/devendhiran0508/leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Search
@@ -375,6 +378,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/devendhiran0508/leetcode-problems/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/devendhiran0508/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 ## Graph
 |  |
