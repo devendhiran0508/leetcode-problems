@@ -85,6 +85,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/devendhiran0508/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/devendhiran0508/leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/devendhiran0508/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/devendhiran0508/leetcode-problems/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/devendhiran0508/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/devendhiran0508/leetcode-problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/devendhiran0508/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/devendhiran0508/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2050-count-good-numbers) |
 ## String
 |  |
