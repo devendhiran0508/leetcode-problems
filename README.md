@@ -149,6 +149,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devendhiran0508/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/0386-lexicographical-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | [0100-same-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
+| [0386-lexicographical-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devendhiran0508/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/devendhiran0508/leetcode-problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
