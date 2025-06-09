@@ -154,6 +154,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devendhiran0508/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/devendhiran0508/leetcode-problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Stack
 |  |
 | ------- |
