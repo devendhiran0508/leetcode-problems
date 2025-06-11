@@ -100,6 +100,7 @@
 | [0067-add-binary](https://github.com/devendhiran0508/leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devendhiran0508/leetcode-problems/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0231-power-of-two](https://github.com/devendhiran0508/leetcode-problems/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/devendhiran0508/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devendhiran0508/leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -124,6 +125,7 @@
 | [0050-powx-n](https://github.com/devendhiran0508/leetcode-problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/devendhiran0508/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/devendhiran0508/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/devendhiran0508/leetcode-problems/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2050-count-good-numbers) |
 ## String
 |  |
@@ -255,6 +257,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/devendhiran0508/leetcode-problems/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/devendhiran0508/leetcode-problems/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devendhiran0508/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/devendhiran0508/leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Search
