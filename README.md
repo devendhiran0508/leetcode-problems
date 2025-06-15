@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/devendhiran0508/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/devendhiran0508/leetcode-problems/tree/master/0135-candy) |
+| [0217-contains-duplicate](https://github.com/devendhiran0508/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/devendhiran0508/leetcode-problems/tree/master/0797-rabbits-in-forest) |
@@ -63,6 +64,7 @@
 | [0012-integer-to-roman](https://github.com/devendhiran0508/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devendhiran0508/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/devendhiran0508/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0797-rabbits-in-forest](https://github.com/devendhiran0508/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devendhiran0508/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -344,6 +346,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/devendhiran0508/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/devendhiran0508/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/devendhiran0508/leetcode-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2215-finding-3-digit-even-numbers) |
