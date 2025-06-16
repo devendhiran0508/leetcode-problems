@@ -191,6 +191,7 @@
 | [0610-triangle-judgement](https://github.com/devendhiran0508/leetcode-problems/tree/master/0610-triangle-judgement) |
 | [1135-customers-who-bought-all-products](https://github.com/devendhiran0508/leetcode-problems/tree/master/1135-customers-who-bought-all-products) |
 | [1179-game-play-analysis-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/1179-game-play-analysis-i) |
+| [1390-average-selling-price](https://github.com/devendhiran0508/leetcode-problems/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/devendhiran0508/leetcode-problems/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/devendhiran0508/leetcode-problems/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/devendhiran0508/leetcode-problems/tree/master/1625-group-sold-products-by-the-date) |
