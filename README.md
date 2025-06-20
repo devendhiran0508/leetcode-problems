@@ -211,6 +211,7 @@
 | [1390-average-selling-price](https://github.com/devendhiran0508/leetcode-problems/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/devendhiran0508/leetcode-problems/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/devendhiran0508/leetcode-problems/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1480-movie-rating](https://github.com/devendhiran0508/leetcode-problems/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/devendhiran0508/leetcode-problems/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/devendhiran0508/leetcode-problems/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/devendhiran0508/leetcode-problems/tree/master/1670-patients-with-a-condition) |
