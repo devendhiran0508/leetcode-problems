@@ -34,6 +34,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/devendhiran0508/leetcode-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/devendhiran0508/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/devendhiran0508/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/devendhiran0508/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -289,6 +290,7 @@
 | [0088-merge-sorted-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/devendhiran0508/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0868-push-dominoes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0868-push-dominoes) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
