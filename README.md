@@ -158,6 +158,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devendhiran0508/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/devendhiran0508/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/devendhiran0508/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devendhiran0508/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/devendhiran0508/leetcode-problems/tree/master/0014-longest-common-prefix) |
@@ -299,6 +300,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devendhiran0508/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/devendhiran0508/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -340,6 +342,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devendhiran0508/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
