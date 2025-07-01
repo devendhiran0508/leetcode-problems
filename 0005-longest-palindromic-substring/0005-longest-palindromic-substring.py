@@ -12,5 +12,5 @@ class Solution:
         for i in range(len(s),0,-1):
             for j in range(len(s)-i+1):
                 if check(j,i+j):
-                    return s[j:j+i]
+                    return s[j:i+j]
         return ""
