@@ -22,6 +22,7 @@
 | [0169-majority-element](https://github.com/devendhiran0508/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/devendhiran0508/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/devendhiran0508/leetcode-problems/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/devendhiran0508/leetcode-problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/devendhiran0508/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -380,6 +381,7 @@
 | [0005-longest-palindromic-substring](https://github.com/devendhiran0508/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0221-maximal-square](https://github.com/devendhiran0508/leetcode-problems/tree/master/0221-maximal-square) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/devendhiran0508/leetcode-problems/tree/master/0806-domino-and-tromino-tiling) |
@@ -588,6 +590,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0221-maximal-square](https://github.com/devendhiran0508/leetcode-problems/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0945-snakes-and-ladders](https://github.com/devendhiran0508/leetcode-problems/tree/master/0945-snakes-and-ladders) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
