@@ -24,6 +24,7 @@
 | [0219-contains-duplicate-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/devendhiran0508/leetcode-problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/devendhiran0508/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
@@ -363,6 +364,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/devendhiran0508/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/devendhiran0508/leetcode-problems/tree/master/0069-sqrtx) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0268-missing-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devendhiran0508/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -487,6 +489,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/devendhiran0508/leetcode-problems/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -585,6 +588,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0945-snakes-and-ladders](https://github.com/devendhiran0508/leetcode-problems/tree/master/0945-snakes-and-ladders) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
