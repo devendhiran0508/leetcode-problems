@@ -4,7 +4,7 @@ class Solution:
             return s
         rows=['']*numRows
         curRow=0
-        goingDown=0
+        goingDown=False
         for char in s:
             rows[curRow]+=char
             if curRow==0 or curRow==numRows-1:
