@@ -7,7 +7,7 @@ class Solution:
                 if(num>>i) & 1:
                     bitSum+=1
             if bitSum%3:
-                res|=(1<<i)
+                res+=(1<<i)
         if res>=2**31:
             res-=2**32
         return res
