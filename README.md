@@ -140,6 +140,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/devendhiran0508/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/devendhiran0508/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/devendhiran0508/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/devendhiran0508/leetcode-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devendhiran0508/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -357,6 +358,7 @@
 | [0141-linked-list-cycle](https://github.com/devendhiran0508/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devendhiran0508/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/devendhiran0508/leetcode-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0868-push-dominoes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devendhiran0508/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
