@@ -79,6 +79,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/devendhiran0508/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/devendhiran0508/leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/3321-type-of-triangle) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/devendhiran0508/leetcode-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -120,6 +121,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/devendhiran0508/leetcode-problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/devendhiran0508/leetcode-problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/devendhiran0508/leetcode-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -139,6 +141,7 @@
 | [0203-remove-linked-list-elements](https://github.com/devendhiran0508/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/devendhiran0508/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devendhiran0508/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
