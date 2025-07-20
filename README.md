@@ -111,6 +111,7 @@
 | [0219-contains-duplicate-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/devendhiran0508/leetcode-problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/devendhiran0508/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/devendhiran0508/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devendhiran0508/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -219,6 +220,7 @@
 | [0067-add-binary](https://github.com/devendhiran0508/leetcode-problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/devendhiran0508/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/devendhiran0508/leetcode-problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0868-push-dominoes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/devendhiran0508/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -586,6 +588,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/devendhiran0508/leetcode-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/devendhiran0508/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
@@ -598,6 +601,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/devendhiran0508/leetcode-problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/devendhiran0508/leetcode-problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/devendhiran0508/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
