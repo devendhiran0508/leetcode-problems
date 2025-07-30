@@ -6,7 +6,7 @@ class Solution:
         for num in nums:
             if maxVal<num:
                 maxVal=num
-                res=1
+                res=0
                 curStreak=0
             if maxVal==num:
                 curStreak+=1
