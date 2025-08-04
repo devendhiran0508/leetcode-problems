@@ -37,6 +37,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/devendhiran0508/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/devendhiran0508/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/devendhiran0508/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/devendhiran0508/leetcode-problems/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/devendhiran0508/leetcode-problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -126,6 +127,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/devendhiran0508/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/devendhiran0508/leetcode-problems/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/devendhiran0508/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devendhiran0508/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/devendhiran0508/leetcode-problems/tree/master/1500-count-largest-group) |
@@ -602,6 +604,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/devendhiran0508/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/devendhiran0508/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/devendhiran0508/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/devendhiran0508/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/devendhiran0508/leetcode-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/devendhiran0508/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
