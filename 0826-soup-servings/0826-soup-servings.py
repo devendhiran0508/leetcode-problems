@@ -1,24 +1,21 @@
 class Solution:
-    def soupServings(self, N: int) -> float:
-        if N >= 5000:  # Large enough, probability is almost 1
+    def soupServings(self, n: int) -> float:
+        if n>5000:
             return 1.0
-        
         from functools import lru_cache
-        N = (N + 24) // 25  # Scale down to units of 25 ml
-
+        m=(n+24)//25
         @lru_cache(None)
-        def dp(a, b):
-            if a <= 0 and b <= 0:
+        def dfs(a:int, b:int)->float:
+            if a<=0 and b<=0:
                 return 0.5
-            if a <= 0:
+            if a<=0:
                 return 1.0
-            if b <= 0:
+            if b<=0:
                 return 0.0
-            return 0.25 * (
-                dp(a - 4, b) +
-                dp(a - 3, b - 1) +
-                dp(a - 2, b - 2) +
-                dp(a - 1, b - 3)
+            return 0.25*(
+                dfs(a-4,b) +
+                dfs(a-3,b-1) +
+                dfs(a-2,b-2)+
+                dfs(a-1,b-3)
             )
-        
-        return dp(N, N)
+        return dfs(m,m)
