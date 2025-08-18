@@ -8,6 +8,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+        
         n=len(nums)
         k%=n
         self.reverse(nums,0,n-k-1)
