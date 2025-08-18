@@ -3,6 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+        # Dutch National Flag Algorithm 
         low = mid = 0
         high = len(nums) - 1
         while mid <= high:
