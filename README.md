@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/devendhiran0508/leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/devendhiran0508/leetcode-problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/devendhiran0508/leetcode-problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/0120-triangle) |
@@ -443,6 +444,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/devendhiran0508/leetcode-problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/devendhiran0508/leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/devendhiran0508/leetcode-problems/tree/master/0231-power-of-two) |
@@ -554,6 +556,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/devendhiran0508/leetcode-problems/tree/master/0078-subsets) |
 | [0679-24-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devendhiran0508/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/devendhiran0508/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
