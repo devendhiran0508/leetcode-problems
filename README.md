@@ -19,6 +19,7 @@
 | [0075-sort-colors](https://github.com/devendhiran0508/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/devendhiran0508/leetcode-problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0137-single-number-ii) |
@@ -484,6 +485,7 @@
 | [0055-jump-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/devendhiran0508/leetcode-problems/tree/master/0221-maximal-square) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
