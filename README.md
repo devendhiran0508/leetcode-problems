@@ -20,6 +20,7 @@
 | [0075-sort-colors](https://github.com/devendhiran0508/leetcode-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/devendhiran0508/leetcode-problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/devendhiran0508/leetcode-problems/tree/master/0135-candy) |
@@ -372,6 +373,7 @@
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devendhiran0508/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -410,6 +412,7 @@
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devendhiran0508/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Two Pointers
@@ -556,6 +559,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -626,6 +630,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/devendhiran0508/leetcode-problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0948-sort-an-array) |
