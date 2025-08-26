@@ -22,6 +22,7 @@
 | [0088-merge-sorted-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devendhiran0508/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/devendhiran0508/leetcode-problems/tree/master/0135-candy) |
@@ -508,6 +509,7 @@
 | [0055-jump-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devendhiran0508/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/devendhiran0508/leetcode-problems/tree/master/0221-maximal-square) |
