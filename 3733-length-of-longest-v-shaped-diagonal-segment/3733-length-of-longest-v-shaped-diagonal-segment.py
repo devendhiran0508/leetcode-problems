@@ -1,29 +1,29 @@
 class Solution:
     def lenOfVDiagonal(self, grid: List[List[int]]) -> int:
-        DIRS = [(1, 1), (1, -1), (-1, -1), (-1, 1)]
-        m, n = len(grid), len(grid[0])
+        m=len(grid)
+        n=len(grid[0])
+        dire=[(1,1),(1,-1),(-1,1),(-1,-1)]
+        nextVal={1:2,2:0,0:2}
 
         @cache
-        def dfs(cx, cy, direction, turn, target):
-            nx, ny = cx + DIRS[direction][0], cy + DIRS[direction][1]
-            # If it goes beyond the boundary or the next node's value is not the target value, then return
-            if nx < 0 or ny < 0 or nx >= m or ny >= n or grid[nx][ny] != target:
+        def dfs(i,j,dirIdx,turned,val):
+            if not(0<=i<m and 0<=j<n) or grid[i][j]!=val:
                 return 0
-            turn_int = 1 if turn else 0
-            # Continue walking in the original direction.
-            max_step = dfs(nx, ny, direction, turn, 2 - target)
-            if turn:
-                # Clockwise rotate 90 degrees turn
-                max_step = max(
-                    max_step,
-                    dfs(nx, ny, (direction + 1) % 4, False, 2 - target),
-                )
-            return max_step + 1
+            res=1
+            nextI=i+dire[dirIdx][0]
+            nextJ=j+dire[dirIdx][1]
+            nxt=nextVal[val]
+            res=max(res,1+dfs(nextI,nextJ,dirIdx,turned,nxt))
 
-        res = 0
+            if not turned:
+                nd=(dirIdx+1)%4
+                ti=i+dire[nd][0]
+                tj=j+dire[nd][1]
+                res=max(res,1+dfs(ti,tj,nd,True,nxt))
+            return res
+        ans=0
         for i in range(m):
             for j in range(n):
-                if grid[i][j] == 1:
-                    for direction in range(4):
-                        res = max(res, dfs(i, j, direction, True, 2) + 1)
-        return res
+                if grid[i][j]==1:
+                    for k in range(4):ans=max(ans,dfs(i,j,k,False,1))
+        return ans
