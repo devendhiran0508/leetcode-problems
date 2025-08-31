@@ -40,6 +40,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/devendhiran0508/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -714,6 +715,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/devendhiran0508/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/devendhiran0508/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/devendhiran0508/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/devendhiran0508/leetcode-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/devendhiran0508/leetcode-problems/tree/master/2249-count-the-hidden-sequences) |
@@ -828,6 +830,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/devendhiran0508/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Bucket Sort
 |  |
