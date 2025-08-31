@@ -14,6 +14,7 @@
 | [0031-next-permutation](https://github.com/devendhiran0508/leetcode-problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/devendhiran0508/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/devendhiran0508/leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/devendhiran0508/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/devendhiran0508/leetcode-problems/tree/master/0066-plus-one) |
@@ -145,6 +146,7 @@
 | [0012-integer-to-roman](https://github.com/devendhiran0508/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/devendhiran0508/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/devendhiran0508/leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/devendhiran0508/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/devendhiran0508/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devendhiran0508/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -591,6 +593,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/devendhiran0508/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/devendhiran0508/leetcode-problems/tree/master/0078-subsets) |
 | [0679-24-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0679-24-game) |
@@ -787,6 +790,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/devendhiran0508/leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/devendhiran0508/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/devendhiran0508/leetcode-problems/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
