@@ -50,6 +50,7 @@
 | [0455-assign-cookies](https://github.com/devendhiran0508/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/devendhiran0508/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/devendhiran0508/leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/devendhiran0508/leetcode-problems/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/devendhiran0508/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/devendhiran0508/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/devendhiran0508/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -798,6 +799,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devendhiran0508/leetcode-problems/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/devendhiran0508/leetcode-problems/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/devendhiran0508/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/devendhiran0508/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/devendhiran0508/leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
