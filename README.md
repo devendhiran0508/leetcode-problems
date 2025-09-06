@@ -42,6 +42,7 @@
 | [0283-move-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/devendhiran0508/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -162,6 +163,7 @@
 | [0242-valid-anagram](https://github.com/devendhiran0508/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/devendhiran0508/leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -469,6 +471,7 @@
 | [0189-rotate-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/devendhiran0508/leetcode-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0868-push-dominoes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devendhiran0508/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -513,6 +516,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/devendhiran0508/leetcode-problems/tree/master/0792-binary-search) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devendhiran0508/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -658,6 +662,7 @@
 | [0242-valid-anagram](https://github.com/devendhiran0508/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/devendhiran0508/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
