@@ -54,6 +54,7 @@
 | [0496-next-greater-element-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/devendhiran0508/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/devendhiran0508/leetcode-problems/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/devendhiran0508/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/devendhiran0508/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0679-24-game) |
@@ -677,6 +678,7 @@
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/devendhiran0508/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/devendhiran0508/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/devendhiran0508/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/devendhiran0508/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0948-sort-an-array) |
@@ -819,6 +821,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/devendhiran0508/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/devendhiran0508/leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/devendhiran0508/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
