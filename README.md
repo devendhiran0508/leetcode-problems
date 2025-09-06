@@ -49,6 +49,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/devendhiran0508/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/devendhiran0508/leetcode-problems/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/devendhiran0508/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/devendhiran0508/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/devendhiran0508/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/devendhiran0508/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
