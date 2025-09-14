@@ -65,6 +65,7 @@
 | [0940-fruit-into-baskets](https://github.com/devendhiran0508/leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/devendhiran0508/leetcode-problems/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0948-sort-an-array) |
+| [1006-vowel-spellchecker](https://github.com/devendhiran0508/leetcode-problems/tree/master/1006-vowel-spellchecker) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/devendhiran0508/leetcode-problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/devendhiran0508/leetcode-problems/tree/master/1293-three-consecutive-odds) |
@@ -181,6 +182,7 @@
 | [0797-rabbits-in-forest](https://github.com/devendhiran0508/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/devendhiran0508/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/devendhiran0508/leetcode-problems/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/devendhiran0508/leetcode-problems/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devendhiran0508/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/devendhiran0508/leetcode-problems/tree/master/1500-count-largest-group) |
@@ -321,6 +323,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/devendhiran0508/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0868-push-dominoes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0868-push-dominoes) |
+| [1006-vowel-spellchecker](https://github.com/devendhiran0508/leetcode-problems/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/devendhiran0508/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
