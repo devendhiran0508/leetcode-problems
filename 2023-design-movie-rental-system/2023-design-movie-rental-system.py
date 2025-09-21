@@ -1,17 +1,11 @@
-from typing import List
-import heapq
-from collections import defaultdict
+
 
 class MovieRentingSystem:
 
     def __init__(self, n: int, entries: List[List[int]]):
-        # priceMap: (shop, movie) -> price
         self.price = {}
-        # available: movie -> min-heap of (price, shop)
         self.available = defaultdict(list)
-        # rented: min-heap of (price, shop, movie)
         self.rented = []
-        # track rented movies to handle removals from heap
         self.rented_set = set()
         
         for shop, movie, price in entries:
@@ -22,14 +16,12 @@ class MovieRentingSystem:
         res = []
         temp = []
         seen = set()
-        # pop top 5 cheapest available shops
         while self.available[movie] and len(res) < 5:
             price, shop = heapq.heappop(self.available[movie])
             if (shop, movie) not in self.rented_set and (shop, movie) not in seen:
                 res.append(shop)
                 seen.add((shop, movie))
             temp.append((price, shop))
-        # push back everything
         for item in temp:
             heapq.heappush(self.available[movie], item)
         return res
@@ -51,7 +43,6 @@ class MovieRentingSystem:
                 res.append([shop, movie])
                 seen.add((shop, movie))
             temp.append((price, shop, movie))
-        # push back everything
         for item in temp:
             heapq.heappush(self.rented, item)
         return res
