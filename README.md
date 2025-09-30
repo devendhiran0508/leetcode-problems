@@ -109,6 +109,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/devendhiran0508/leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/devendhiran0508/leetcode-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -286,6 +287,7 @@
 | [2050-count-good-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/devendhiran0508/leetcode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -686,6 +688,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devendhiran0508/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/3548-find-the-count-of-good-integers) |
@@ -870,6 +873,7 @@
 | [0498-diagonal-traverse](https://github.com/devendhiran0508/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/devendhiran0508/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/devendhiran0508/leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/devendhiran0508/leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
