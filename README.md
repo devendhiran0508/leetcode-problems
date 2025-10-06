@@ -62,6 +62,7 @@
 | [0679-24-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/devendhiran0508/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/devendhiran0508/leetcode-problems/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/devendhiran0508/leetcode-problems/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/devendhiran0508/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/devendhiran0508/leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -479,6 +480,7 @@
 | [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/devendhiran0508/leetcode-problems/tree/master/0463-island-perimeter) |
+| [0794-swim-in-rising-water](https://github.com/devendhiran0508/leetcode-problems/tree/master/0794-swim-in-rising-water) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devendhiran0508/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/devendhiran0508/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -493,6 +495,7 @@
 | [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/devendhiran0508/leetcode-problems/tree/master/0463-island-perimeter) |
+| [0794-swim-in-rising-water](https://github.com/devendhiran0508/leetcode-problems/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/devendhiran0508/leetcode-problems/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devendhiran0508/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/devendhiran0508/leetcode-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -579,6 +582,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/devendhiran0508/leetcode-problems/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/devendhiran0508/leetcode-problems/tree/master/0794-swim-in-rising-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devendhiran0508/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -896,6 +900,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/devendhiran0508/leetcode-problems/tree/master/0506-relative-ranks) |
+| [0794-swim-in-rising-water](https://github.com/devendhiran0508/leetcode-problems/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/devendhiran0508/leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/devendhiran0508/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
@@ -919,6 +924,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/devendhiran0508/leetcode-problems/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/devendhiran0508/leetcode-problems/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/devendhiran0508/leetcode-problems/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/devendhiran0508/leetcode-problems/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/devendhiran0508/leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/devendhiran0508/leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
@@ -949,6 +955,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/devendhiran0508/leetcode-problems/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Design
 |  |
