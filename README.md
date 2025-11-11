@@ -51,6 +51,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/devendhiran0508/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/devendhiran0508/leetcode-problems/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/devendhiran0508/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/devendhiran0508/leetcode-problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -398,6 +399,7 @@
 | [0242-valid-anagram](https://github.com/devendhiran0508/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/devendhiran0508/leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/devendhiran0508/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0868-push-dominoes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/devendhiran0508/leetcode-problems/tree/master/1006-vowel-spellchecker) |
@@ -682,6 +684,7 @@
 | [0221-maximal-square](https://github.com/devendhiran0508/leetcode-problems/tree/master/0221-maximal-square) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0474-ones-and-zeroes) |
 | [0806-domino-and-tromino-tiling](https://github.com/devendhiran0508/leetcode-problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/devendhiran0508/leetcode-problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0867-new-21-game) |
