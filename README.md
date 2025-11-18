@@ -62,6 +62,7 @@
 | [0611-valid-triangle-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/devendhiran0508/leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/devendhiran0508/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/devendhiran0508/leetcode-problems/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/devendhiran0508/leetcode-problems/tree/master/0794-swim-in-rising-water) |
