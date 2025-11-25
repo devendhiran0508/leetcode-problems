@@ -75,6 +75,7 @@
 | [0948-sort-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1006-vowel-spellchecker](https://github.com/devendhiran0508/leetcode-problems/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/devendhiran0508/leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/devendhiran0508/leetcode-problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/devendhiran0508/leetcode-problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -642,6 +643,7 @@
 | [0268-missing-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/devendhiran0508/leetcode-problems/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/devendhiran0508/leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devendhiran0508/leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/devendhiran0508/leetcode-problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/devendhiran0508/leetcode-problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
