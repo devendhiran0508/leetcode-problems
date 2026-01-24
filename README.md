@@ -486,6 +486,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/devendhiran0508/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devendhiran0508/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/devendhiran0508/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/devendhiran0508/leetcode-problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -554,6 +555,7 @@
 | [0101-symmetric-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/devendhiran0508/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devendhiran0508/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/devendhiran0508/leetcode-problems/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -567,6 +569,7 @@
 | [0100-same-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/devendhiran0508/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/devendhiran0508/leetcode-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/devendhiran0508/leetcode-problems/tree/master/0463-island-perimeter) |
@@ -606,6 +609,7 @@
 | [0101-symmetric-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/devendhiran0508/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devendhiran0508/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Two Pointers
 |  |
