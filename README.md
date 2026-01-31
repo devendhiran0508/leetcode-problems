@@ -65,6 +65,7 @@
 | [0679-24-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/devendhiran0508/leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/devendhiran0508/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/devendhiran0508/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/devendhiran0508/leetcode-problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/devendhiran0508/leetcode-problems/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/devendhiran0508/leetcode-problems/tree/master/0794-swim-in-rising-water) |
@@ -690,6 +691,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/devendhiran0508/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/devendhiran0508/leetcode-problems/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/devendhiran0508/leetcode-problems/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/devendhiran0508/leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
