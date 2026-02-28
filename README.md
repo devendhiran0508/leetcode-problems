@@ -351,6 +351,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/devendhiran0508/leetcode-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/devendhiran0508/leetcode-problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/devendhiran0508/leetcode-problems/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/devendhiran0508/leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devendhiran0508/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2050-count-good-numbers) |
@@ -666,6 +667,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/devendhiran0508/leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/devendhiran0508/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devendhiran0508/leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/devendhiran0508/leetcode-problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/devendhiran0508/leetcode-problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devendhiran0508/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1060,6 +1062,7 @@
 | [0495-teemo-attacking](https://github.com/devendhiran0508/leetcode-problems/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/devendhiran0508/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/devendhiran0508/leetcode-problems/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/devendhiran0508/leetcode-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2048-build-array-from-permutation](https://github.com/devendhiran0508/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/devendhiran0508/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/devendhiran0508/leetcode-problems/tree/master/2169-simple-bank-system) |
