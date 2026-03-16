@@ -329,6 +329,7 @@
 | [0171-excel-sheet-column-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/devendhiran0508/leetcode-problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/devendhiran0508/leetcode-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/devendhiran0508/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/devendhiran0508/leetcode-problems/tree/master/0342-power-of-four) |
@@ -1013,6 +1014,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/devendhiran0508/leetcode-problems/tree/master/0258-add-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/devendhiran0508/leetcode-problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -1059,6 +1061,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devendhiran0508/leetcode-problems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/devendhiran0508/leetcode-problems/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/devendhiran0508/leetcode-problems/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/devendhiran0508/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/devendhiran0508/leetcode-problems/tree/master/1642-water-bottles) |
