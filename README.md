@@ -45,6 +45,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/devendhiran0508/leetcode-problems/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -336,6 +337,7 @@
 | [0326-power-of-three](https://github.com/devendhiran0508/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/devendhiran0508/leetcode-problems/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/devendhiran0508/leetcode-problems/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/devendhiran0508/leetcode-problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/devendhiran0508/leetcode-problems/tree/master/0826-soup-servings) |
@@ -734,6 +736,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devendhiran0508/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/devendhiran0508/leetcode-problems/tree/master/0221-maximal-square) |
 | [0368-largest-divisible-subset](https://github.com/devendhiran0508/leetcode-problems/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/devendhiran0508/leetcode-problems/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0474-ones-and-zeroes) |
 | [0806-domino-and-tromino-tiling](https://github.com/devendhiran0508/leetcode-problems/tree/master/0806-domino-and-tromino-tiling) |
