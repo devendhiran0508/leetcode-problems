@@ -438,6 +438,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/devendhiran0508/leetcode-problems/tree/master/0500-keyboard-row) |
+| [0796-rotate-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/devendhiran0508/leetcode-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/devendhiran0508/leetcode-problems/tree/master/1006-vowel-spellchecker) |
@@ -659,6 +660,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
