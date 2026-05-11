@@ -148,6 +148,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/devendhiran0508/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/devendhiran0508/leetcode-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2529-range-product-queries-of-powers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/devendhiran0508/leetcode-problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/devendhiran0508/leetcode-problems/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -1087,6 +1088,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/devendhiran0508/leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/devendhiran0508/leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2553-separate-the-digits-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3336-water-bottles-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/devendhiran0508/leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
