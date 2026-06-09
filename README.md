@@ -203,6 +203,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/devendhiran0508/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/devendhiran0508/leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/devendhiran0508/leetcode-problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3689-maximum-total-subarray-value-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/devendhiran0508/leetcode-problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -829,6 +830,7 @@
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/devendhiran0508/leetcode-problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/devendhiran0508/leetcode-problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3647-zero-array-transformation-iii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devendhiran0508/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
