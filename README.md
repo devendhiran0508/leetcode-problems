@@ -478,6 +478,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/devendhiran0508/leetcode-problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/devendhiran0508/leetcode-problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3612-process-string-with-special-operations-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1099,6 +1100,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3336-water-bottles-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/devendhiran0508/leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
