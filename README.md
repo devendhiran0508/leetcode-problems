@@ -103,6 +103,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/devendhiran0508/leetcode-problems/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/devendhiran0508/leetcode-problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-find-the-highest-altitude](https://github.com/devendhiran0508/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [1813-maximum-erasure-value](https://github.com/devendhiran0508/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/devendhiran0508/leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/devendhiran0508/leetcode-problems/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -1012,6 +1013,7 @@
 | [0303-range-sum-query-immutable](https://github.com/devendhiran0508/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/devendhiran0508/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1590-make-sum-divisible-by-p](https://github.com/devendhiran0508/leetcode-problems/tree/master/1590-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/devendhiran0508/leetcode-problems/tree/master/1732-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/devendhiran0508/leetcode-problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/devendhiran0508/leetcode-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/devendhiran0508/leetcode-problems/tree/master/2249-count-the-hidden-sequences) |
