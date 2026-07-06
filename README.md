@@ -473,6 +473,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/devendhiran0508/leetcode-problems/tree/master/3194-find-words-containing-character) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/devendhiran0508/leetcode-problems/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/devendhiran0508/leetcode-problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/devendhiran0508/leetcode-problems/tree/master/3396-valid-word) |
@@ -828,6 +829,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/devendhiran0508/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/devendhiran0508/leetcode-problems/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/devendhiran0508/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/devendhiran0508/leetcode-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/devendhiran0508/leetcode-problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1073,6 +1075,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/devendhiran0508/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/devendhiran0508/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/devendhiran0508/leetcode-problems/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/devendhiran0508/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/devendhiran0508/leetcode-problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/devendhiran0508/leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
