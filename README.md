@@ -222,6 +222,7 @@
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/devendhiran0508/leetcode-problems/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/devendhiran0508/leetcode-problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/devendhiran0508/leetcode-problems/tree/master/3863-power-grid-maintenance) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/devendhiran0508/leetcode-problems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -664,6 +665,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/devendhiran0508/leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/devendhiran0508/leetcode-problems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String Matching
 |  |
 | ------- |
