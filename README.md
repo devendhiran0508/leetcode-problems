@@ -18,6 +18,7 @@
 | [0037-sudoku-solver](https://github.com/devendhiran0508/leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/devendhiran0508/leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/devendhiran0508/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/devendhiran0508/leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/devendhiran0508/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -750,6 +751,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devendhiran0508/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/devendhiran0508/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/0118-pascals-triangle) |
@@ -963,6 +965,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/devendhiran0508/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/devendhiran0508/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/devendhiran0508/leetcode-problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
