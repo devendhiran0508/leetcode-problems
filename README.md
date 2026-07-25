@@ -36,6 +36,7 @@
 | [0135-candy](https://github.com/devendhiran0508/leetcode-problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/devendhiran0508/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/devendhiran0508/leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -719,6 +720,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/devendhiran0508/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/devendhiran0508/leetcode-problems/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
