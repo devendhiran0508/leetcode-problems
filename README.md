@@ -493,6 +493,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/devendhiran0508/leetcode-problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/devendhiran0508/leetcode-problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
@@ -964,6 +965,7 @@
 | [3321-type-of-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/devendhiran0508/leetcode-problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/devendhiran0508/leetcode-problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/devendhiran0508/leetcode-problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1244,6 +1246,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0948-sort-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Function
 |  |
 | ------- |
