@@ -391,6 +391,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/devendhiran0508/leetcode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/devendhiran0508/leetcode-problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2998-count-symmetric-integers](https://github.com/devendhiran0508/leetcode-problems/tree/master/2998-count-symmetric-integers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/devendhiran0508/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/devendhiran0508/leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3201-distribute-candies-among-children-ii) |
@@ -482,6 +483,7 @@
 | [2429-design-a-food-rating-system](https://github.com/devendhiran0508/leetcode-problems/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/devendhiran0508/leetcode-problems/tree/master/3194-find-words-containing-character) |
@@ -846,6 +848,7 @@
 | [2689-rearranging-fruits](https://github.com/devendhiran0508/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/devendhiran0508/leetcode-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/devendhiran0508/leetcode-problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/devendhiran0508/leetcode-problems/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
