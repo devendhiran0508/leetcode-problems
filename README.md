@@ -105,6 +105,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/devendhiran0508/leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/devendhiran0508/leetcode-problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devendhiran0508/leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/devendhiran0508/leetcode-problems/tree/master/1590-make-sum-divisible-by-p) |
@@ -741,6 +742,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/devendhiran0508/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/devendhiran0508/leetcode-problems/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/devendhiran0508/leetcode-problems/tree/master/0794-swim-in-rising-water) |
+| [1539-kth-missing-positive-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/devendhiran0508/leetcode-problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devendhiran0508/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
