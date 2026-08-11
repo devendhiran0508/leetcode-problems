@@ -174,6 +174,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/devendhiran0508/leetcode-problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -298,6 +299,7 @@
 | [2689-rearranging-fruits](https://github.com/devendhiran0508/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/2915-count-of-interesting-subarrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/devendhiran0508/leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/devendhiran0508/leetcode-problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/devendhiran0508/leetcode-problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -969,6 +971,7 @@
 | [2689-rearranging-fruits](https://github.com/devendhiran0508/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/2887-sort-vowels-in-a-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devendhiran0508/leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/devendhiran0508/leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
