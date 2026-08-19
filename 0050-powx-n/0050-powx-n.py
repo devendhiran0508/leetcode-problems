@@ -1,17 +1,14 @@
 class Solution:
     def myPow(self, x: float, n: int) -> float:
-        def cal(x,n):
-            if x==0:
-                return 0
-            if n==0:
-                return 1
-            result=cal(x,n//2)
-            result=result*result
-            if n%2==1:
-                return result*x
-            return result
-        answer=cal(x,abs(n))
-        if n>=0:
-            return answer
-        return 1/answer
-        
+        N = n
+        if N < 0:
+            x = 1 / x
+            N = -N
+        res = 1.0
+        curr_pro = x
+        while N > 0:
+            if N % 2 == 1:
+                res *= curr_pro
+            curr_pro *= curr_pro
+            N //= 2
+        return res
