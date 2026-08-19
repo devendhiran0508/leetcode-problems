@@ -1300,4 +1300,8 @@
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/devendhiran0508/leetcode-problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/devendhiran0508/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
