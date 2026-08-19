@@ -1304,4 +1304,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devendhiran0508/leetcode-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
