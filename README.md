@@ -71,6 +71,7 @@
 | [0498-diagonal-traverse](https://github.com/devendhiran0508/leetcode-problems/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/devendhiran0508/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/devendhiran0508/leetcode-problems/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/devendhiran0508/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
@@ -742,6 +743,7 @@
 | [0268-missing-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/devendhiran0508/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/devendhiran0508/leetcode-problems/tree/master/0792-binary-search) |
