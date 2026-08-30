@@ -130,6 +130,7 @@
 | [2023-design-movie-rental-system](https://github.com/devendhiran0508/leetcode-problems/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/devendhiran0508/leetcode-problems/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/devendhiran0508/leetcode-problems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/devendhiran0508/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/devendhiran0508/leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/devendhiran0508/leetcode-problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -850,6 +851,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/devendhiran0508/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/devendhiran0508/leetcode-problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/devendhiran0508/leetcode-problems/tree/master/1917-maximum-average-pass-ratio) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/devendhiran0508/leetcode-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/devendhiran0508/leetcode-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/devendhiran0508/leetcode-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
