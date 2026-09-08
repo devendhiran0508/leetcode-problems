@@ -430,6 +430,7 @@
 | [3783-mirror-distance-of-an-integer](https://github.com/devendhiran0508/leetcode-problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/devendhiran0508/leetcode-problems/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/devendhiran0508/leetcode-problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3870-count-commas-in-range](https://github.com/devendhiran0508/leetcode-problems/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
 | ------- |
