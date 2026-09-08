@@ -72,6 +72,7 @@
 | [0500-keyboard-row](https://github.com/devendhiran0508/leetcode-problems/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/devendhiran0508/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/devendhiran0508/leetcode-problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/devendhiran0508/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
@@ -838,6 +839,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/devendhiran0508/leetcode-problems/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/devendhiran0508/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/devendhiran0508/leetcode-problems/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/devendhiran0508/leetcode-problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/devendhiran0508/leetcode-problems/tree/master/0797-rabbits-in-forest) |
@@ -955,6 +957,7 @@
 | [0414-third-maximum-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/devendhiran0508/leetcode-problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/devendhiran0508/leetcode-problems/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/devendhiran0508/leetcode-problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/devendhiran0508/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/devendhiran0508/leetcode-problems/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/devendhiran0508/leetcode-problems/tree/master/0759-set-intersection-size-at-least-two) |
@@ -1269,6 +1272,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/devendhiran0508/leetcode-problems/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0948-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Function
