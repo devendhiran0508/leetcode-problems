@@ -96,6 +96,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/devendhiran0508/leetcode-problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/devendhiran0508/leetcode-problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/devendhiran0508/leetcode-problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1200-minimum-absolute-difference](https://github.com/devendhiran0508/leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/devendhiran0508/leetcode-problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/devendhiran0508/leetcode-problems/tree/master/1293-three-consecutive-odds) |
@@ -967,6 +968,7 @@
 | [0900-reordered-power-of-2](https://github.com/devendhiran0508/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/devendhiran0508/leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/devendhiran0508/leetcode-problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/devendhiran0508/leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/devendhiran0508/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
