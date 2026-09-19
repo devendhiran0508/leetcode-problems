@@ -360,6 +360,7 @@
 | [0066-plus-one](https://github.com/devendhiran0508/leetcode-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/devendhiran0508/leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devendhiran0508/leetcode-problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/devendhiran0508/leetcode-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/devendhiran0508/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
@@ -787,6 +788,7 @@
 | [0005-longest-palindromic-substring](https://github.com/devendhiran0508/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/devendhiran0508/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devendhiran0508/leetcode-problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/devendhiran0508/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/devendhiran0508/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
@@ -1249,6 +1251,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/devendhiran0508/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/devendhiran0508/leetcode-problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/devendhiran0508/leetcode-problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/devendhiran0508/leetcode-problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
