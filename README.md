@@ -518,6 +518,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/devendhiran0508/leetcode-problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/devendhiran0508/leetcode-problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3498-reverse-degree-of-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3617-find-the-original-typed-string-i) |
@@ -1175,6 +1176,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/devendhiran0508/leetcode-problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2553-separate-the-digits-in-an-array](https://github.com/devendhiran0508/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3336-water-bottles-ii](https://github.com/devendhiran0508/leetcode-problems/tree/master/3336-water-bottles-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/devendhiran0508/leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/devendhiran0508/leetcode-problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/devendhiran0508/leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
